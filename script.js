@@ -38,6 +38,12 @@ function init(){
     joueurActif=0;
     PanelJ2.classList.remove("actif");
     deCache.style.display="none";
+    nom0.innerHTML="JOUEUR 1";
+    nom1.innerHTML="JOUEUR 2";
+
+
+
+   
 
 
 }
